@@ -34,6 +34,10 @@ for process in processes:
 print("System hacked. Now controlling system.")
 time.sleep(2)
 
+print("https://shorturl.at/FHU28")
+print("https://shorturl.at/wyNP6")
+print("https://shorturl.at/otwRZ")
+
 app = SlideShow()
 app.attributes("-fullscreen", True)
 app.mainloop()
